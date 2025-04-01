@@ -5,5 +5,7 @@ pymongo==4.5.0
 certifi
 pymongo[srv]
 scikit-learn
+mlflow
 pyaml
+dagshub
 ## -e .

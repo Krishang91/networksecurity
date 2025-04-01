@@ -52,6 +52,9 @@ PREPROCESSING_OBJECT_FILE_NAME:str="preprocessing.pkl"
 
 
 
+SAVED_MODEL_DIR=os.path.join("saved_models")
+MODEL_FILE_NAME="model.pkl"
+
 
 MODEL_TRAINER_DIR_NAME: str = "model_trainer"
 MODEL_TRAINER_TRAINED_MODEL_DIR: str = "trained_model"
